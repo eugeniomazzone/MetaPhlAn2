@@ -1,5 +1,9 @@
 ### To get the latest version, please direct to https://github.com/biobakery/MetaPhlAn
 
+# INSTALL
+``$ https://pypi.org/project/biom-format/ $``
+
+
 # MetaPhlAn 2: Metagenomic Phylogenetic Analysis
 
 AUTHORS: Duy Tin Truong (duytin.truong@unitn.it), Nicola Segata (nicola.segata@unitn.it)
